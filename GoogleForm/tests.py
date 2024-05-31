@@ -87,3 +87,4 @@ Screenshot_path ='C:\\Users\\esuriset\\Desktop\\FormFill\\GoogleForm\\Screenshot
 Resume_path = 'C:\\Users\\esuriset\\Desktop\\FormFill\\Eswar_Resume.pdf'
 Document_path = 'C:\\Users\\esuriset\\Desktop\\FormFill\\Code_Documentation.docx'
 send_mails(subject,message,To_mail_list,CC_List,Screenshot_path,Resume_path,Document_path)
+driver.quit()
